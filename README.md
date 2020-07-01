@@ -1,4 +1,4 @@
-![Awesome Drone](img/github-header-strip.png)
+![Awesome Drone](./img/github-header-strip.png)
 
 > A curated list of awesome drone resources. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
